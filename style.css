@@ -6,11 +6,7 @@
     /* font-family: "Montserrat", sans-serif; */
     /* overflow: hidden; */
   }
-
-  section{
-    overflow: hidden;
-  }
-  
+   
   /* --- Customize ScrollBars --- */
   .footer .center .linkedin-content::-webkit-scrollbar {
     width: 11px;
